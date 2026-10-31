@@ -2,7 +2,7 @@
 
 <p align="center"><img src="brand/mallet.png" width="128" alt="Mallet"></p>
 
-**Mallet - современный редактор карт для Garry's Mod и других игр на Source: те же VMF и те же компиляторы, что у Hammer, но интерфейс из этого десятилетия.** Бесплатная программа, открытая для тестировщиков: перед вами **демо 0.1**, сырое и выпущенное именно для проверки на настоящих картах.
+**Mallet - современный редактор карт для Garry's Mod и других игр на Source: те же VMF и те же компиляторы, что у Hammer, но интерфейс из этого десятилетия.** Бесплатная программа с исходниками, открытая для тестировщиков: перед вами **демо 0.1**, сырое и выпущенное именно для проверки на настоящих картах.
 
 [![Скачать](https://img.shields.io/badge/Скачать-установщик%20Windows-2a9dae?style=for-the-badge)](https://github.com/Radik44/mallet/releases/latest)
 [![Поддержать на Patreon](https://img.shields.io/badge/Поддержать-Patreon-ff6b8a?style=for-the-badge)](https://www.patreon.com/mallet_official)
@@ -86,6 +86,17 @@ Mallet не собирает телеметрию и сам ничего ник�
 
 Garry's Mod, Source и Hammer принадлежат Facepunch Studios и Valve Corporation. Mallet -
 независимый проект, не связанный с ними и не одобренный ими.
+
+## Сборка из исходников
+
+Нужны Rust stable с целью `wasm32-unknown-unknown`, Node.js 24 и pnpm 10, на Windows ещё Visual Studio Build Tools и WebView2.
+
+```bash
+pnpm install
+pnpm dev
+```
+
+Установщик собирается командой `pnpm --filter @gme/editor tauri build --bundles nsis` и появляется в `target/release/bundle/nsis/`.
 
 ## Обратная связь
 

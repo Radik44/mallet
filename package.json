@@ -1,0 +1,15 @@
+{
+  "name": "gmod-map-editor",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@10.34.8",
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "wasm-pack"]
+  },
+  "scripts": {
+    "dev": "pnpm --filter @gme/editor tauri dev",
+    "build": "pnpm --filter @gme/editor tauri build",
+    "web": "pnpm --filter @gme/editor dev",
+    "typecheck": "pnpm --filter @gme/editor typecheck"
+  }
+}

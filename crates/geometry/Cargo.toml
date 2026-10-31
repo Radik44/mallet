@@ -1,0 +1,13 @@
+[package]
+name = "geometry"
+description = "Brush geometry for Source maps: planes, polygons by clipping, solid validation, texture axes"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+glam = { workspace = true }
+
+[dev-dependencies]
+proptest = { workspace = true }

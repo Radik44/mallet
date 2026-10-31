@@ -1,0 +1,18 @@
+[package]
+name = "content"
+description = "Garry's Mod content: Steam detection, search paths, virtual filesystem over directories, VPK and GMA, material loading"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+kv = { path = "../kv" }
+vpk = { path = "../vpk" }
+gma = { path = "../gma" }
+vtf = { path = "../vtf" }
+vmt = { path = "../vmt" }
+walkdir = "2"
+
+[target.'cfg(windows)'.dependencies]
+winreg = "0.55"

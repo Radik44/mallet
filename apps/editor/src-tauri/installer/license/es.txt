@@ -1,0 +1,62 @@
+﻿Mallet Free Software License 1.0 - Licencia de software libre Mallet 1.0
+
+Copyright (c) 2026 Radik (Radik44) and the Mallet contributors
+
+Esta traducción se ofrece por comodidad; en caso de diferencia, prevalece el
+texto en inglés del archivo LICENSE.
+
+Mallet es software libre. Esta licencia le permite usarlo, estudiarlo,
+modificarlo y compartirlo, y le pide una sola cosa a cambio: que siga siendo
+libre.
+
+1. Permiso
+
+   Se concede permiso, sin cargo alguno, a cualquier persona que obtenga una
+   copia de este software y de su código fuente (el «Software») para usar,
+   copiar, modificar, fusionar, publicar y distribuir el Software y sus
+   versiones modificadas, con cualquier fin, incluidos los proyectos
+   comerciales realizados con él, con sujeción a las condiciones siguientes.
+
+2. El Software sigue siendo libre
+
+   No puede vender el Software ni una versión modificada del mismo, cobrar
+   por el acceso a él, ni incluirlo en un producto que se venda, salvo que
+   puede cobrar a precio de coste su propio tiempo, soporte, alojamiento o
+   soportes físicos. Todo lo que cree con el Software (mapas, texturas,
+   sonidos, scripts y otros archivos) es exclusivamente suyo, libre de
+   cualquier reclamación de los autores, y puede venderlo o licenciarlo como
+   desee.
+
+3. Atribución
+
+   Las copias y las versiones modificadas deben conservar el texto de esta
+   licencia y el aviso de derechos de autor anterior, y deben indicar que
+   están basadas en Mallet, con un enlace al proyecto original.
+
+4. Sin garantía
+
+   EL SOFTWARE SE PROPORCIONA «TAL CUAL», SIN GARANTÍA DE NINGÚN TIPO,
+   EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE
+   COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRACCIÓN. EN
+   NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN
+   RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA
+   EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO TIPO, DERIVADA DEL
+   SOFTWARE, DE SU USO O DE OTRAS OPERACIONES CON EL SOFTWARE, O RELACIONADA
+   CON ELLOS. Esta es una versión de demostración; conserve copias de sus
+   mapas.
+
+5. Sus datos
+
+   El Software no recopila telemetría y no envía sus archivos a ningún sitio
+   por sí mismo. El asistente integrado, cuando y solo cuando usted lo usa,
+   envía su solicitud, un resumen del mapa y los resultados de las
+   herramientas a los servicios de Anthropic (Claude Code con su
+   suscripción, o la API con su clave), conforme a las condiciones de
+   Anthropic.
+
+6. Terceros
+
+   Garry's Mod, Source, Hammer y los nombres y materiales relacionados son
+   propiedad de Facepunch Studios y Valve Corporation. Mallet es un proyecto
+   independiente, no afiliado a ellos ni respaldado por ellos; el contenido
+   del juego se lee de su propia copia instalada del juego.

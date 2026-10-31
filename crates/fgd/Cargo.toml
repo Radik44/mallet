@@ -1,0 +1,9 @@
+[package]
+name = "fgd"
+description = "Parser for Hammer's FGD entity definition files with include resolution and class inheritance"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]

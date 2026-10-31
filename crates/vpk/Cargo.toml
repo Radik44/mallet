@@ -1,0 +1,9 @@
+[package]
+name = "vpk"
+description = "Reader for Valve Pak (VPK) archives, versions 1 and 2, single and multi-part"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]

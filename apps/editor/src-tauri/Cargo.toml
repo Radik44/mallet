@@ -1,0 +1,30 @@
+[package]
+name = "gme-editor"
+description = "Mallet: a map editor for Garry's Mod (desktop shell)"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[lib]
+name = "gme_editor_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+tauri-plugin-dialog = "2"
+serde = { workspace = true }
+serde_json = { workspace = true }
+content = { path = "../../../crates/content" }
+fgd = { path = "../../../crates/fgd" }
+vtf = { path = "../../../crates/vtf" }
+vmt = { path = "../../../crates/vmt" }
+mdl = { path = "../../../crates/mdl" }
+bsp = { path = "../../../crates/bsp" }
+base64 = "0.22"
+png = "0.17"
+ureq = { version = "2", features = ["json"] }
+keyring = { version = "3", features = ["windows-native"] }

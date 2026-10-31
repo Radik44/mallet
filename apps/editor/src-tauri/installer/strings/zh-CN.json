@@ -1,0 +1,15 @@
+{
+  "secMain": "Mallet 编辑器",
+  "secWebView2": "Microsoft Edge WebView2 运行时",
+  "secClaude": "助手：Claude Code",
+  "secClaudeAlready": "助手：Claude Code（已安装）",
+  "descMain": "编辑器本体：程序、快捷方式和卸载条目。必选组件。纹理、模型和编译器取自您在 Steam 中的 Garry's Mod 副本。",
+  "descWebView2": "运行编辑器界面所需的 Windows 组件。仅当系统中尚未安装时才会安装；引导程序已内置于安装程序中。",
+  "descClaude": "Anthropic 的程序，内置助手通过 Claude 订阅运行时需要它。使用 Anthropic 官方安装程序安装：需要联网，约需一分钟。没有它时，助手将以演示模式或通过 API 密钥运行；也可以稍后在助手的设置中安装。",
+  "claudeInstalling": "正在使用 Anthropic 官方安装程序安装 Claude Code…",
+  "claudeDone": "Claude Code 已安装。",
+  "claudeFailed": "无法安装 Claude Code（没有网络连接，或 Anthropic 安装程序不可用）。助手将以演示模式运行；稍后可在其设置中安装。",
+  "licenseWait": "请阅读条款：“下一步”按钮将在几秒后可用。继续即表示您接受这些条款。",
+  "licenseTitle": "许可证协议",
+  "licenseSub": "安装 Mallet 前请阅读许可证条款。"
+}

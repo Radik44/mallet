@@ -1,0 +1,24 @@
+[package]
+name = "map-core-wasm"
+description = "WebAssembly surface of the map core: load a VMF, hand render-ready buffers to the viewport"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+# wasm-opt needs a binaryen download; skip it until release builds matter.
+[package.metadata.wasm-pack.profile.release]
+wasm-opt = false
+
+[dependencies]
+vmf = { path = "../vmf" }
+geometry = { path = "../geometry" }
+map-model = { path = "../map-model" }
+glam = { workspace = true }
+serde = { workspace = true }
+wasm-bindgen = "0.2"
+serde-wasm-bindgen = "0.6"
+console_error_panic_hook = "0.1"

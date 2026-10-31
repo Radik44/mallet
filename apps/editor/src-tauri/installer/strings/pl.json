@@ -1,0 +1,15 @@
+{
+  "secMain": "Edytor Mallet",
+  "secWebView2": "Środowisko Microsoft Edge WebView2",
+  "secClaude": "Asystent: Claude Code",
+  "secClaudeAlready": "Asystent: Claude Code (zainstalowany)",
+  "descMain": "Sam edytor: program, skróty i wpis o instalacji. Składnik wymagany. Tekstury, modele i kompilatory pochodzą z Państwa kopii Garry's Mod w Steam.",
+  "descWebView2": "Składnik Windows, w którym działa interfejs edytora. Instalowany tylko wtedy, gdy nie ma go jeszcze w systemie; program ładujący jest wbudowany w instalator.",
+  "descClaude": "Program firmy Anthropic, którego wbudowany asystent potrzebuje do pracy w ramach subskrypcji Claude. Instalowany oficjalnym instalatorem Anthropic: wymagane jest połączenie z internetem, trwa około minuty. Bez niego asystent działa w trybie demonstracyjnym lub z kluczem API; można go zainstalować także później, w ustawieniach asystenta.",
+  "claudeInstalling": "Instalowanie Claude Code oficjalnym instalatorem Anthropic…",
+  "claudeDone": "Claude Code został zainstalowany.",
+  "claudeFailed": "Nie udało się zainstalować Claude Code (brak internetu lub instalator Anthropic jest niedostępny). Asystent będzie działał w trybie demonstracyjnym; można go zainstalować później w jego ustawieniach.",
+  "licenseWait": "Przeczytaj warunki: przycisk „Dalej” odblokuje się po kilku sekundach. Kontynuując, akceptujesz je.",
+  "licenseTitle": "Umowa licencyjna",
+  "licenseSub": "Przed instalacją Mallet zapoznaj się z warunkami licencji."
+}

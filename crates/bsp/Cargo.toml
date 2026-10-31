@@ -1,0 +1,11 @@
+[package]
+name = "bsp"
+description = "Source BSP (VBSP 19-21) reader and decompiler to VMF text"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+geometry = { path = "../geometry" }
+glam = { workspace = true }

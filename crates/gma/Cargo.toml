@@ -1,0 +1,10 @@
+[package]
+name = "gma"
+description = "Reader for Garry's Mod addon archives (.gma), including LZMA-compressed Workshop downloads"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+lzma-rs = "0.3"

@@ -1,0 +1,12 @@
+[package]
+name = "vmf"
+description = "Typed, lossless view of Valve Map Format files on top of the kv crate"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+kv = { path = "../kv" }
+geometry = { path = "../geometry" }
+glam = { workspace = true }

@@ -1,0 +1,62 @@
+﻿Mallet Free Software License 1.0 - Licence de logiciel libre Mallet 1.0
+
+Copyright (c) 2026 Radik (Radik44) and the Mallet contributors
+
+Cette traduction est fournie par commodité ; en cas de différence, le texte
+anglais du fichier LICENSE prévaut.
+
+Mallet est un logiciel libre. Cette licence vous permet de l'utiliser, de
+l'étudier, de le modifier et de le partager, et ne demande qu'une chose en
+retour : qu'il reste libre.
+
+1. Autorisation
+
+   L'autorisation est accordée, à titre gratuit, à toute personne obtenant
+   une copie de ce logiciel et de son code source (le « Logiciel »)
+   d'utiliser, copier, modifier, fusionner, publier et distribuer le
+   Logiciel ainsi que ses versions modifiées, à quelque fin que ce soit, y
+   compris pour des projets commerciaux réalisés avec lui, sous réserve des
+   conditions ci-dessous.
+
+2. Le Logiciel reste libre
+
+   Vous ne pouvez pas vendre le Logiciel ni une version modifiée de celui-ci,
+   faire payer l'accès à celui-ci, ni l'intégrer à un produit vendu, sauf que
+   vous pouvez facturer à prix coûtant votre propre temps, l'assistance,
+   l'hébergement ou les supports physiques. Tout ce que vous créez avec le
+   Logiciel (cartes, textures, sons, scripts et autres fichiers) vous
+   appartient en propre, sans aucune revendication de la part des auteurs, et
+   vous pouvez le vendre ou le concéder sous licence comme bon vous semble.
+
+3. Attribution
+
+   Les copies et les versions modifiées doivent conserver le texte de cette
+   licence et la mention de droit d'auteur ci-dessus, et doivent indiquer
+   qu'elles sont basées sur Mallet, avec un lien vers le projet d'origine.
+
+4. Absence de garantie
+
+   LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE,
+   EXPRESSE OU IMPLICITE, Y COMPRIS, SANS S'Y LIMITER, LES GARANTIES DE
+   QUALITÉ MARCHANDE, D'ADAPTATION À UN USAGE PARTICULIER ET D'ABSENCE DE
+   CONTREFAÇON. EN AUCUN CAS LES AUTEURS OU LES TITULAIRES DES DROITS
+   D'AUTEUR NE SERONT RESPONSABLES DE TOUTE RÉCLAMATION, DE TOUT DOMMAGE OU
+   DE TOUTE AUTRE RESPONSABILITÉ, QUE CE SOIT DANS LE CADRE D'UN CONTRAT,
+   D'UN DÉLIT OU AUTREMENT, DÉCOULANT DU LOGICIEL, DE SON UTILISATION OU
+   D'AUTRES OPÉRATIONS PORTANT SUR LE LOGICIEL, OU EN LIEN AVEC EUX. Ceci
+   est une version de démonstration ; conservez des copies de vos cartes.
+
+5. Vos données
+
+   Le Logiciel ne collecte aucune télémétrie et n'envoie par lui-même vos
+   fichiers nulle part. L'assistant intégré, quand et seulement quand vous
+   l'utilisez, envoie votre demande, un résumé de la carte et les résultats
+   des outils aux services d'Anthropic (Claude Code avec votre abonnement,
+   ou l'API avec votre clé), conformément aux conditions d'Anthropic.
+
+6. Tiers
+
+   Garry's Mod, Source, Hammer et les noms et contenus associés sont la
+   propriété de Facepunch Studios et de Valve Corporation. Mallet est un
+   projet indépendant, non affilié à ces sociétés ni approuvé par elles ; le
+   contenu du jeu est lu depuis votre propre copie installée du jeu.

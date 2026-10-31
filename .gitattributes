@@ -1,0 +1,10 @@
+# Keep LF everywhere so builds and diffs are the same on Windows and Linux.
+* text=auto eol=lf
+
+# Test fixtures must reach the parser byte-for-byte: no line-ending conversion.
+crates/*/tests/fixtures/** -text
+
+# Binary assets
+*.png binary
+*.ico binary
+*.icns binary

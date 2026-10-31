@@ -1,0 +1,9 @@
+[package]
+name = "vtf"
+description = "Valve Texture Format reader: header, mip layout, BC passthrough and RGBA8 conversion"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]

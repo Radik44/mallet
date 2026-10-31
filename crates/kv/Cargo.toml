@@ -1,0 +1,15 @@
+[package]
+name = "kv"
+description = "Lossless Valve KeyValues parser and writer (VMF, VMT, gameinfo.txt, mount.cfg)"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+# Strings up to 24 bytes live inline: most keys, values and whitespace runs of a VMF, so a
+# 40 MB map no longer costs seven heap allocations per pair.
+compact_str = "0.8"
+
+[dev-dependencies]
+proptest = { workspace = true }

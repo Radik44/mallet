@@ -1,0 +1,10 @@
+# Paths tauri dev must not watch: autotest and compile outputs land here and each write restarted the app.
+**/tests/fixtures/**
+**/testdata/**
+**/*.bsp
+**/*.gma
+**/*.lin
+**/*.prt
+**/*.log
+**/autosave/**
+**/workshop/**

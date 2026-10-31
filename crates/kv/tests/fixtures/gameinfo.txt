@@ -1,0 +1,40 @@
+"GameInfo"
+{
+	game 	"Garry's Mod"
+	title 	"garrysmod"
+	type		multiplayer_only
+	nomodels 1
+	nohimodel 1
+	nocrosshair 0
+	hidden_maps
+	{
+		"test_speakers"		1
+		"test_hardware"		1
+	}
+	nodegraph 0
+	GameData	"garrysmod.fgd"
+	SupportsDX8	0
+	SupportsXbox360 0
+
+	FileSystem
+	{
+		SteamAppId				4000
+
+		//
+		// The code that loads this file automatically does a few things here:
+		//
+		// 1. For each "Game" search path, it adds a "GameBin" path, in <dir>\bin
+		// 2. For each "Game" search path, it adds another "Game" path in front of it with _<langage> at the end.
+		//
+
+		SearchPaths
+		{
+			game+mod			|gameinfo_path|.
+			game+mod+download	|gameinfo_path|download
+			game				|all_source_engine_paths|hl2
+			platform			|all_source_engine_paths|platform
+			game_lv				hl2_lv
+			gamebin				|gameinfo_path|bin
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "secMain": "Mallet düzenleyicisi",
+  "secWebView2": "Microsoft Edge WebView2 Çalışma Zamanı",
+  "secClaude": "Asistan: Claude Code",
+  "secClaudeAlready": "Asistan: Claude Code (yüklü)",
+  "descMain": "Düzenleyicinin kendisi: program, kısayollar ve kaldırma kaydı. Zorunlu bileşen. Dokular, modeller ve derleyiciler Steam'deki kendi Garry's Mod kopyanızdan alınır.",
+  "descWebView2": "Düzenleyicinin arayüzünün çalıştığı Windows bileşeni. Yalnızca sistemde henüz yoksa yüklenir; önyükleyici yükleyicinin içine gömülüdür.",
+  "descClaude": "Yerleşik asistanın Claude aboneliğiyle çalışması için gereken Anthropic programı. Anthropic'in resmi yükleyicisiyle kurulur: internet bağlantısı gerekir, yaklaşık bir dakika sürer. Bu program olmadan asistan demo modunda veya API anahtarıyla çalışır; daha sonra asistanın ayarlarından da yüklenebilir.",
+  "claudeInstalling": "Claude Code, Anthropic'in resmi yükleyicisiyle yükleniyor…",
+  "claudeDone": "Claude Code yüklendi.",
+  "claudeFailed": "Claude Code yüklenemedi (internet bağlantısı yok veya Anthropic yükleyicisine erişilemiyor). Asistan demo modunda çalışacak; daha sonra ayarlarından yüklenebilir.",
+  "licenseWait": "Koşulları okuyun: “İleri” düğmesi birkaç saniye sonra etkinleşir. Devam ederek koşulları kabul etmiş olursunuz.",
+  "licenseTitle": "Lisans Sözleşmesi",
+  "licenseSub": "Mallet’i yüklemeden önce lisans koşullarını okuyun."
+}

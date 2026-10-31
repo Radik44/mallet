@@ -1,0 +1,55 @@
+﻿Mallet Free Software License 1.0
+
+Copyright (c) 2026 Radik (Radik44) and the Mallet contributors
+
+Mallet is free software. This license lets you use it, study it, change it
+and share it, and asks one thing in return: that it stays free.
+
+1. Permission
+
+   Permission is granted, free of charge, to any person obtaining a copy of
+   this software and its source code (the "Software") to use, copy, modify,
+   merge, publish and distribute the Software and modified versions of it,
+   for any purpose, including commercial projects made with it, subject to
+   the conditions below.
+
+2. The Software stays free
+
+   You may not sell the Software or a modified version of it, charge for
+   access to it, or bundle it into a product that is sold, except that you
+   may charge for your own time, support, hosting or physical media at cost.
+   Anything you make with the Software (maps, textures, sounds, scripts and
+   other files) is yours alone, free of any claim by the authors, and you may
+   sell or license it as you wish.
+
+3. Attribution
+
+   Copies and modified versions must keep this license text and the
+   copyright notice above, and must say that they are based on Mallet, with
+   a link to the original project.
+
+4. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE. This is a demonstration version; keep copies of
+   your maps.
+
+5. Your data
+
+   The Software does not collect telemetry and does not send your files
+   anywhere by itself. The built-in assistant, when and only when you use it,
+   sends your request, a summary of the map and tool results to Anthropic's
+   services (Claude Code on your subscription, or the API with your key)
+   under Anthropic's terms.
+
+6. Third parties
+
+   Garry's Mod, Source, Hammer and related names and materials are the
+   property of Facepunch Studios and Valve Corporation. Mallet is an
+   independent project, not affiliated with or endorsed by them; game content
+   is read from your own installed copy of the game.

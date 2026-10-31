@@ -1,0 +1,27 @@
+// Floor material with a scrolling proxy and a Windows-only bump map.
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete/concretefloor001a"
+	"$surfaceprop" "concrete"
+	"%keywords" "hl2,gmod"
+	"$bumpmap" "concrete/concretefloor001a_normal" [$WIN32]
+	"$ssbump" 0
+	$detail "detail/noise_detail_01"   // unquoted key, trailing comment
+	$detailscale 4.0
+	$detailblendfactor .5
+
+	Proxies
+	{
+		TextureScroll
+		{
+			texturescrollvar $basetexturetransform
+			texturescrollrate 0.25
+			texturescrollangle 45.00
+		}
+	}
+
+	">=DX90" [$WIN32]
+	{
+		"$bumpmap" "concrete/concretefloor001a_normal"
+	}
+}

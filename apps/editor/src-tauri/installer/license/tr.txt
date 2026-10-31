@@ -1,0 +1,60 @@
+﻿Mallet Free Software License 1.0 - Mallet Özgür Yazılım Lisansı 1.0
+
+Copyright (c) 2026 Radik (Radik44) ve Mallet katkıda bulunanları
+
+Bu çeviri kolaylık içindir; bir fark olması durumunda LICENSE dosyasındaki
+İngilizce metin geçerlidir.
+
+Mallet özgür bir yazılımdır. Bu lisans onu kullanmanıza, incelemenize,
+değiştirmenize ve paylaşmanıza izin verir; karşılığında tek bir şey ister:
+özgür kalması.
+
+1. İzin
+
+   Bu yazılımın ve kaynak kodunun bir kopyasını edinen herkese (“Yazılım”),
+   ücretsiz olarak, Yazılımı ve değiştirilmiş sürümlerini, onunla yapılan
+   ticari projeler dahil her amaçla kullanma, kopyalama, değiştirme,
+   birleştirme, yayımlama ve dağıtma izni, aşağıdaki koşullar saklı kalmak
+   üzere verilmiştir.
+
+2. Yazılım özgür kalır
+
+   Yazılımı veya değiştirilmiş bir sürümünü satamaz, ona erişim için ücret
+   talep edemez veya satılan bir ürünün içine dahil edemezsiniz; ancak kendi
+   zamanınız, destek, barındırma hizmeti veya fiziksel ortam için maliyet
+   karşılığında ücret alabilirsiniz. Yazılımla ürettiğiniz her şey
+   (haritalar, dokular, sesler, betikler ve diğer dosyalar) yalnızca size
+   aittir, yazarların herhangi bir hak iddiasından muaftır ve dilediğiniz
+   gibi satabilir veya lisanslayabilirsiniz.
+
+3. Atıf
+
+   Kopyalar ve değiştirilmiş sürümler bu lisans metnini ve yukarıdaki telif
+   hakkı bildirimini korumalı, ayrıca Mallet'e dayandıklarını belirtmeli ve
+   özgün projeye bir bağlantı vermelidir.
+
+4. Garanti yok
+
+   YAZILIM, TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VE HAK İHLALİ
+   OLMAMASI GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK
+   VEYA ZIMNİ HİÇBİR GARANTİ OLMAKSIZIN “OLDUĞU GİBİ” SUNULMAKTADIR. HİÇBİR
+   DURUMDA YAZARLAR VEYA TELİF HAKKI SAHİPLERİ, YAZILIMDAN VEYA YAZILIMIN
+   KULLANIMINDAN YA DA YAZILIMLA İLGİLİ DİĞER İŞLEMLERDEN KAYNAKLANAN VEYA
+   BUNLARLA BAĞLANTILI, İSTER SÖZLEŞME, İSTER HAKSIZ FİİL, İSTER BAŞKA BİR
+   NEDENE DAYANAN HİÇBİR İDDİADAN, ZARARDAN VEYA DİĞER SORUMLULUKTAN SORUMLU
+   TUTULAMAZ. Bu bir demo sürümüdür; haritalarınızın kopyalarını saklayın.
+
+5. Verileriniz
+
+   Yazılım telemetri toplamaz ve dosyalarınızı kendi başına hiçbir yere
+   göndermez. Yerleşik asistan, yalnızca ve yalnızca onu kullandığınızda,
+   isteğinizi, haritanın bir özetini ve araç sonuçlarını Anthropic'in
+   hizmetlerine (aboneliğiniz üzerinden Claude Code veya anahtarınızla API)
+   Anthropic'in koşulları uyarınca gönderir.
+
+6. Üçüncü taraflar
+
+   Garry's Mod, Source, Hammer ve ilgili adlar ile materyaller Facepunch
+   Studios ve Valve Corporation'ın mülkiyetindedir. Mallet bağımsız bir
+   projedir; onlarla bağlantılı değildir ve onlar tarafından
+   onaylanmamıştır; oyun içeriği, oyunun kendi yüklü kopyanızdan okunur.

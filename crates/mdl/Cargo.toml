@@ -1,0 +1,12 @@
+[package]
+name = "mdl"
+description = "Source studio model reader: MDL header, VVD vertices and VTX strips assembled into renderable meshes"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+
+[dev-dependencies]
+content = { path = "../content" }

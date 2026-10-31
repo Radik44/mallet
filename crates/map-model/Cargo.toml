@@ -1,0 +1,13 @@
+[package]
+name = "map-model"
+description = "Editable map document: typed VMF data with transactions, undo and write-through to the lossless kv tree"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+kv = { path = "../kv" }
+vmf = { path = "../vmf" }
+geometry = { path = "../geometry" }
+glam = { workspace = true }

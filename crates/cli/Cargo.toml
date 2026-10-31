@@ -1,0 +1,41 @@
+[package]
+name = "cli"
+description = "Command line tools built on the editor's core crates"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+publish = false
+
+[[bin]]
+name = "vmf-roundtrip"
+path = "src/roundtrip.rs"
+
+[[bin]]
+name = "vmf-stats"
+path = "src/stats.rs"
+
+[[bin]]
+name = "content-probe"
+path = "src/probe.rs"
+
+[[bin]]
+name = "vmf-memory"
+path = "src/memory.rs"
+
+[[bin]]
+name = "bsp-decompile"
+path = "src/decompile.rs"
+
+[dependencies]
+kv = { path = "../kv" }
+vmf = { path = "../vmf" }
+bsp = { path = "../bsp" }
+geometry = { path = "../geometry" }
+content = { path = "../content" }
+vtf = { path = "../vtf" }
+png = "0.17"
+clap = { version = "4", features = ["derive"] }
+walkdir = "2"
+serde = { workspace = true }
+serde_json = { workspace = true }

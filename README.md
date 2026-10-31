@@ -2,7 +2,7 @@
 
 <p align="center"><img src="brand/mallet.png" width="128" alt="Mallet"></p>
 
-**Mallet is a modern map editor for Garry's Mod and other Source engine games - the same VMF files and the same compilers as Hammer, with an interface from this decade.** Free, and open to testers: this is **demo 0.1**, rough around the edges and published to be tried on real maps.
+**Mallet is a modern map editor for Garry's Mod and other Source engine games - the same VMF files and the same compilers as Hammer, with an interface from this decade.** Free, source included, open to testers: this is **demo 0.1**, rough around the edges and published to be tried on real maps.
 
 [![Download](https://img.shields.io/badge/Download-Windows%20installer-2a9dae?style=for-the-badge)](https://github.com/Radik44/mallet/releases/latest)
 [![Support on Patreon](https://img.shields.io/badge/Support-Patreon-ff6b8a?style=for-the-badge)](https://www.patreon.com/mallet_official)
@@ -60,6 +60,17 @@ No Node.js, Python or other developer tools are needed to run Mallet. The instal
 Mallet collects no telemetry and sends no files anywhere by itself. The assistant, when and only when you use it, sends your request, a summary of the map and tool results to Anthropic's services under Anthropic's terms. Everything you make with Mallet is yours alone. The program is free and must stay free; see [LICENSE](LICENSE).
 
 Garry's Mod, Source and Hammer are the property of Facepunch Studios and Valve Corporation. Mallet is an independent project, not affiliated with or endorsed by them.
+
+## Building from source
+
+Rust stable with the `wasm32-unknown-unknown` target, Node.js 24 and pnpm 10; on Windows, Visual Studio Build Tools and WebView2.
+
+```bash
+pnpm install
+pnpm dev
+```
+
+The installer is built with `pnpm --filter @gme/editor tauri build --bundles nsis`; it lands in `target/release/bundle/nsis/`.
 
 ## Feedback
 
